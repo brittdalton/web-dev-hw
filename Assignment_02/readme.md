@@ -35,4 +35,4 @@ but ended  up creating a work around for myself. I am a complete beginer
 and havent felt very comfortable answering questions of classmates yet
 but do need to find ways to contribute even in small ways.
 
-![Screenshot of Assignment 02](/Assignment_02/images/screenshot_assignment_02)
+![Screenshot of Assignment 02](./Assignment_02/images/screenshot_assignment_02)
