@@ -34,3 +34,5 @@ troubleshoot myself and find fixes. I did orginally post to the group
 but ended  up creating a work around for myself. I am a complete beginer
 and havent felt very comfortable answering questions of classmates yet
 but do need to find ways to contribute even in small ways.
+
+![Screenshot of Assignment 02](/Assignment_02/images/screenshot_assignment_02)
