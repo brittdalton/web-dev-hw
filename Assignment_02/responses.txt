@@ -1,7 +1,24 @@
 Assignment 02
 What is the Internet?
 
-Q:Briefly describe one way how data travels on the internet.
+Q: Briefly describe one way how data travels on the internet.
 A: Data is broken up into packets of information that can be
 easily transmitted from one computer to another computer or device.
-Data packages travel indirectly along the path of least resistance. 
+IP Packets travel indirectly along the path of least resistance in
+order to reach their IP address destinations.
+
+Q: What is the relationship between IP address and DNS?
+A: The IP address is a number that identifies location of
+devices using the IP address, used for accurate sending and
+receiving data. The domain name system (DNS) is the designation
+users type in to get to a website, computers us the DNS to look
+up the IP address which is used to connect to the website.
+
+Q: What is a cookie?
+A: Data sent from a server that is hosting a website you are
+using which identifies your information and is saved by the browser
+you are working in. This identification allows websites to remember
+your information when you return to it.
+
+Q: List the three basic parts of a URL.
+A: Protocol, domain, path
