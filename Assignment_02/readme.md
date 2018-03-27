@@ -2,7 +2,7 @@
 ## Technical Report
 
 Version Control System **VCS**
-VCS is a system that records changes to a file
+is a system that records changes to a file
 over time. Version control systems allow you to
 revert to previous editions, clearly see differences
 and to see contributions between multiple users.
