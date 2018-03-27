@@ -1,4 +1,5 @@
 Assignment 02
 What is the Internet?
 
-Briefly describe one way how data travels on the internet.
+Q:Briefly describe one way how data travels on the internet.
+A: Data is broken up into packets of information that can be easily transmitted from one computer to another computer or device. Data packages travel indirectly along the path of least resistance. 
