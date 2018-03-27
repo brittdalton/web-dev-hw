@@ -27,9 +27,9 @@ and I found the first time through I followed all the steps without really
 understanding what is was I was accomplishing so I had to step back and
 go through all the materials a second time and look for more resources. I
 read more articles on [codeschool.com](https://www.codeschool.com/beginners-guide-to-web-development) and watched a ton of the youtube
-videos from code.com. I finally started with a new repository and started
+videos from [code.com](https://www.youtube.com/user/CodeOrg). I finally started with a new repository and started
 over again, this time it was much better and the simple issues I run
-into I have been able to go back, make changes, push them through and 
+into I have been able to go back, make changes, push them through and
 troubleshoot myself and find fixes. I did orginally post to the group
 but ended  up creating a work around for myself. I am a complete beginer
 and havent felt very comfortable answering questions of classmates yet
