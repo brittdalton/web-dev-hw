@@ -1,4 +1,4 @@
-## Assignment 02
-# What is the Internet?
+##Assignment 02
+#What is the Internet?
 
-*Briefly describe one way how data travels on the internet.
+*Briefly describe one way how data travels on the internet.*
