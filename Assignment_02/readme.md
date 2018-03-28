@@ -14,7 +14,7 @@ a program with VCS in order foster a collaborative
 environment that makes working together simple and efficient.
 
 For more info on URL, DNS, data traveling on the Internet
-and cookies [click here](/Assignment_02/responses.txt)
+and cookies [click here](./responses.txt)
 
 In this cycle I set up Git Hub, initiated a repository, installed
 Atom text editor and learned the basics of Markup language in order
