@@ -3,13 +3,13 @@
 <h2>Technical Report</h2>
 
 
-Q: How many head and body elements can a page have?
+<b> Q: How many head and body elements can a page have? </b>
 
 A: Each page need only one head and one body, the head contains the title
 and the meta data that is read by the browser, while the body contains the
 content that is read or viewed by the user through an interface.
 
-Q: What is the difference between structural and semantic markup.
+<b>Q: What is the difference between structural and semantic markup.</b>
 
 A: Structural markup references the layout of the content such as the
 headings, line breaks and paragraphs. Semantic markup is used to reference the
