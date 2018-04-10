@@ -3,7 +3,7 @@
 <h2>Technical Report</h2>
 
 
-<b> Q: How many head and body elements can a page have? </b>
+<b>Q: How many head and body elements can a page have?</b>
 
 A: Each page need only one head and one body, the head contains the title
 and the meta data that is read by the browser, while the body contains the
