@@ -1,6 +1,8 @@
-# Assignment 3
-## Technical Report
 
+<h1>Assignment 3</h1>
+<h2>Technical Report</h2>
+
+<p>
 Q: How many head and body elements can a page have?
 
 A: Each page need only one head and one body, the head contains the title
@@ -15,3 +17,8 @@ underlying meaning of the words for example, using <i>italics</i> tags will chan
 the slope of the lines that make up the letters but using a <em>strong</em> tag
 will provide further information that this word is to be emphasised in the
 sentence.
+</p>
+
+<p>
+ldjfldjf;
+</p>
