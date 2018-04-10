@@ -2,4 +2,4 @@
 <h2>Technical Report</h2>
 
 
-<img src="./Images/Project_01_screenshot" />
+<img src="./Images/Project_01_screenshot.png" />
