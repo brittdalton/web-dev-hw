@@ -31,7 +31,7 @@ Fieldset 1: Contact Details
 Fieldset 2: Previous Experience
   - What is your preferred browser?
       Choose one:
-      * (Radio Button) Firefox
+      * (Radio Button) Firefox --
       * (Radio Button, checked) Chrome
       * (Radio Button) Internet Explorer
       * (Radio Button) Safari
