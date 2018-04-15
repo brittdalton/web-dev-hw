@@ -27,6 +27,19 @@
       .contact {
         background-color: powderblue;
       }
+      * {
+margin: 0;
+padding: 0;
+}
+.imgbox {
+display: grid;
+height: 100%;
+}
+.center-fit {
+max-width: 100%;
+max-height: 100vh;
+margin: auto;
+}
       </style>
 
 
@@ -34,11 +47,11 @@
 
     <body>
 
-        <div id="art">
+        <div id="art" class="imgbox">
         </div>
             <h1>Holocene</h1>
             <h3>Bon Iver</h3>
-              <img src="./Images/holocene_cover.jpg" />
+              <img class="center-fit" src="./Images/holocene_cover.jpg" />
         <div id="audio">
         </div>
 
