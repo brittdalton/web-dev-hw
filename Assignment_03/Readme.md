@@ -35,3 +35,5 @@ I have not posted to the class repo for my own issues because I have been able t
 easily fix them all and I haven't started attempting to help others yet because I am
 behind the others in the class. I am working hard to get caught up and then I will be
 more active in the issues board.
+
+<img src="./Images/Screenshot_A03.png" title="assignment 3 progress screenshot" />
