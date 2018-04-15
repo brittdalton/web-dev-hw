@@ -23,4 +23,4 @@ I had. I was creating a form based on an imaginary client's needs and requests a
 most part although the alignment of the center area bothered me and I was wishing I could change it. I wanted to select an alternative Media Arts Logo, one with clear lines and copy included and I debated with
 myself if I should deviate from the client requests given, I decided if this were a real client situation I could offer an alternative with the option to revise to original requests if needed.
 
-<img src="./Images/Screenshot_A04.png" alt="screenshot of progress" title="forms assignment screenshot" width="400" height="300"
+<img src="./Images/Screenshot_A04.png" alt="screenshot of progress" title="forms assignment screenshot" width="400" height="300" />
