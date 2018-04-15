@@ -1,6 +1,6 @@
 
 <h1>Assignment 3</h1>
-<h2>Technical Report</h2>
+  <h2>Technical Report</h2>
 
 
 <b>Q: How many head and body elements can a page have?</b>
