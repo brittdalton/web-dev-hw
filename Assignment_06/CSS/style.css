@@ -1,5 +1,5 @@
 
-body {
+body *{
   font-family: commuters-sans, sans-serif;
   font-style: italic;
   font-weight: 300;
@@ -20,6 +20,9 @@ body {
 .text-2 {
   color: rgb(255,52,255)
 }
+
+.sun {}
+
 
 .sunsetorange {
   background-color: rgb(88,2017,229)
