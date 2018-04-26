@@ -10,7 +10,11 @@ body {
 }
 
 .text-1 {
-  color: rgb(250,250,250)
+  color: rgb(247,255,0)
+}
+
+.text-2 {
+  color: rgb(255,52,255)
 }
 
 .sunsetorange {
