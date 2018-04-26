@@ -12,11 +12,11 @@ body *{
   padding: 30%;
 }
 
-.text-1 {
+#text-1 {
   color: rgb(247,255,0)
 }
 
-.text-2 {
+#text-2 {
   color: rgb(255,52,255)
 }
 
