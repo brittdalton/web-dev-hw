@@ -16,4 +16,4 @@ A:
 
 This cycle...
 
-<img src="./Images/Screenshot_color" />
+<img src="./Images/Screenshot_color.png" />
