@@ -1,5 +1,5 @@
 
-body *{
+body {
   font-family: commuters-sans, sans-serif;
   font-style: italic;
   font-weight: 300;
@@ -7,17 +7,16 @@ body *{
   position: absolute;
 }
 
-.video-text {
-  background-color: rgb(88,2017,229)
-  color: white; 
+.title {
+  background-color: rgb(250,250,250)
 
 }
 
-#text-1 {
+#letsgo {
   color: rgb(247,255,0)
 }
 
-#text-2 {
+#perfectjob {
   color: rgb(255,52,255)
 }
 
