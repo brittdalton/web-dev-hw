@@ -7,9 +7,10 @@ body *{
   position: absolute;
 }
 
-.text {
+.video-text {
   background-color: rgb(88,2017,229)
-  
+  color: white; 
+
 }
 
 #text-1 {
