@@ -1,16 +1,13 @@
 
-<h1>Assignment 6</h1>
+<h1>Assignment 7</h1>
   <h2>Technical Report</h2>
 
 
-<b>Q: Which decade and graphic did you choose? Describe your design
-process and explain how your styling was used to reflect an exploration of this
-decade's design trends. </b>
+<b>Q: What font did you choose for this assignment, briefly describe your design process for the project.</b>
 
 A:
 
-<b>Q: Describe your color palette, the three colors that you chose and list their color names
-in RGB as well as Hex Code. </b>
+<b>Q: What is the difference between a system font, web font, and web-safe font? What is the importance of having fallback fonts or a font stack? </b>
 
 A:
 
