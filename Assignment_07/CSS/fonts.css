@@ -5,3 +5,11 @@
   font-style: normal;
   font-weight: 400;
 }
+
+.parent {
+  font-size: 18pt;
+}
+
+.child-content {
+  font-size: 50%;
+}
