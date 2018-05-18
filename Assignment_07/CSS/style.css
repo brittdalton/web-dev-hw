@@ -2,6 +2,11 @@ background color: {
   ivory;
 }
 
+.header {
+  font-family: harry-potter;
+}
+
+
 .linkto {
     min-height: 10em;
 }
