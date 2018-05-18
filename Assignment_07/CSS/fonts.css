@@ -22,7 +22,7 @@
 
 @font-face {
 font-family: 'harry-potter';
-src: url('./Fonts/HARRYP_.TTF') format('truetype');
+src: url('../Fonts/HARRYP_.TTF') format('truetype');
 font-weight: 700 ;
 font-style: normal ;
 }
