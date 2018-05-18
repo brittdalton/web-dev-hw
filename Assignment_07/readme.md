@@ -13,8 +13,7 @@ A: System fonts are installed on a local device/system, they are not designed fo
 
 This cycle I created a website with an excerpt from Harry Potter book 1, I chose this piece
 because I loved the book when I was younger so I had a lot of fun choosing fonts and styling
-the site with references from the book such as the three stars on the button I created which are the same as the three stars on the corners of the pages in the books. I didn't have any major issues, I felt this page was much easier to style than the
-last one. I loved learning about typography and how much work goes into designing, creating,
+the site with references from the book such as the three stars on the button I created which are the same as the three stars on the corners of the pages in the books. I didn't have any major issues, I felt this page was much easier to style than the last one. I created a button in Illustrator and exported as a png, I was just winging it to make a button but I had a hard time getting the size correct and I created a link in the white space around the button as well which i didn't know how to avoid. I loved learning about typography and how much work goes into designing, creating,
 linking and using fonts.
 
 <img src="./Images/progress.png" />
