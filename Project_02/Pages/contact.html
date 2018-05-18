@@ -41,7 +41,42 @@
           <a href="https://brittdalton.github.io/web-dev-hw/Project_02/Pages/contact.html">Contact</a>
       </nav>
 
-  
+      <br />
+      <br />
+
+      <div>
+          <form action="http://www.example.com/register.php" method="get" id="Questionnaire" class="basic-forms">
+
+          <fieldset>
+            <legend>Contact Us</legend>
+            <p>
+                Name:
+                <input type="text" name="first" placeholder="First" id="name-first"  />
+                <input type="text" name="middle" placeholder="MI" id="name-middle" maxlength="3" />
+                <input type="text" name="Last" placeholder="Last" id="name-last" />
+            </p>
+
+            <p>
+              E-mail:
+              <input type="email" name="email" placeholder="you@email.com" autofocus />
+            </p>
+
+            <p>
+                Date of Birth:
+                <input type="text" name="birthdate" placeholder="mm/dd/yyyy" />
+            </p>
+
+            <p>
+              Would you like to be contacted regarding future photography workshops?
+            </p>
+              <input id="yes" type="radio" name="prev-course" value="y">
+              <label for="yes">Yes</label>
+              <input id="no" type="radio" name="prev-course" value="n">
+              <label for="no">No</label>
+        </fieldset>
+      </form>
+      </div>
+
 
     </body>
 
