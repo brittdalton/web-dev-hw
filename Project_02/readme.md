@@ -11,6 +11,8 @@ A:
 
 A:
 
-This cycle I created an instructional 3 page website. The biggest issue and a huge distraction from the presentation of the site for me was using the background element and the pattern it created, I wanted to stretch my image across the screen and have it be responsive to different size browsers but I had a lot of trouble getting that to work so i used the background tag we learned in this section and it created a pattern that wasn't exactly what I wanted for a background. Specifically in the contact page where there are two moons if your browser is large enough to see the repeat, I used a vector design and exported it as a png to get the look of the geometric, dark, night-like background and this pattern repeat wasnt appealing to me.
+This cycle I created an instructional 3 page website. The biggest issue and a huge distraction from the presentation of the site for me was using the background element and the pattern it created, I wanted to stretch my image across the screen and have it be responsive to different size browsers but I had a lot of trouble getting that to work so i used the background tag we learned in this section and it created a pattern that wasn't exactly what I wanted for a background. Specifically in the contact page where there are two moons if your browser is large enough to see the repeat, I used a vector design and exported it as a png to get the look of the geometric, dark, night-like background and this pattern repeat wasnt appealing to me. There was a
+large missing piece in the pattern as well which interupted the layout and I added a second underlying background color to match as close as possible
+the dark green in the geographic pattern.
 
 <img src="./Images/progress.png" />
