@@ -3,7 +3,7 @@ body {
   font-family: commuters-sans, sans-serif;
   font-style: italic;
   font-weight: 300;
-  background-color: rgb(0,0,0,0.99);
+  /* background-color: rgb(0,0,0,0.99); */
   position: absolute;
 }
 
@@ -16,12 +16,12 @@ body {
   color: rgb(247,245,0)
 }
 
-#perfectjob {
+#perfectjob {                /*title + perfect job = pink text and video iframe */
   color: rgb(255,52,255)
 }
 
 .sunsetorange {
-  background-color: rgb(88,207,229)
+  background-color: rgb(137,219,255)
     padding: 10%;
 }
 
