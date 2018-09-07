@@ -32,8 +32,6 @@ into place for me, when i look at code that we haven't learned yet it doesn't lo
 like non-sence to me anymore and I have been keeping the web inspector option on my
 browser open whenever I am online and watching for new things.
 I have not posted to the class repo for my own issues because I have been able to
-easily fix them all and I haven't started attempting to help others yet because I am
-behind the others in the class. I am working hard to get caught up and then I will be
-more active in the issues board.
+easily fix them all.
 
 <img src="./Images/Screenshot_A03.png" title="assignment 3 progress screenshot" />
