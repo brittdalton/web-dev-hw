@@ -1,14 +1,14 @@
-# My intro-web-dev-homework repo
-## Brittney Dalton
-I am a taking this course to get a better understanding of websites and how to design them. I would like to create websites for projects and a portfolio. 
+# My Introduction to Web Design and Development repo
+## Britt Dalton
+Introduction to the fundamentals of website development, content design and navigation. Areas of focus; directory structure, graphic design, navigation and audio/video integration.
 
-The history of the internet is very interesting
-- ARPANET
-- Paul Baran's distributed packet-switch newtowrk
-- Bill Gates controlls the internet lol
-- "you cant escape contact with the internet, so why not get to know it and use it"
+
+- Overview of technologies used for web development
+- In depth work in HTML and CSS
+- Exploration of responsive web design
+- Site framework and site management solutions
 ***
-### My Resources
+### Resources
 *HTML & CSS* **John Duckett**
 
 `*HTML & CSS* **John Duckett**`
