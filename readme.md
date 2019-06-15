@@ -1,4 +1,4 @@
-# My Introduction to Web Design and Development repo
+# Introduction to Web Design and Development repo
 ## Britt Dalton
 Introduction to the fundamentals of website development, content design and navigation. Areas of focus; directory structure, graphic design, navigation and audio/video integration.
 
@@ -8,6 +8,11 @@ Introduction to the fundamentals of website development, content design and navi
 - Exploration of responsive web design
 - Site framework and site management solutions
 ***
+
+### Projects
+
+[Chocolate Beet Cake Recipe](https://brittdalton.github.io/web-dev-hw/Assignment_03/)
+
 ### Resources
 *HTML & CSS* **John Duckett**
 
